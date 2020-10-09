@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "dogra1598",
+        "DB_PASSWORD": "KD7YQ69UkIyxmpai",
+        "DB_NAME": "netflix-clone",
+        "JWT_KEY": "KD7EQ19UqwIyvcvoai"
+    }
+}
